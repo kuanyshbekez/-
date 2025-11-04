@@ -1,0 +1,11 @@
+{
+  "host": "Autysty.aternos.me",
+  "port": 28834,
+  "username": "BedrockBot",
+  "targetPlayer": "",
+  "behaviour": {
+    "followDistance": 2.0,
+    "followSpeed": 0.12,
+    "collectMaxDistance": 16
+  }
+}

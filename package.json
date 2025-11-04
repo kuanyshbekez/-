@@ -1,1 +1,15 @@
-
+{
+  "name": "bedrock-bot-starter",
+  "version": "0.1.0",
+  "description": "Starter Minecraft Bedrock bot (bedrock-protocol)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bedrock-protocol": "^1.2.0",
+    "prismarine-chunk": "^0.12.0",
+    "vec3": "^0.3.0"
+  }
+}
